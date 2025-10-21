@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Naveen M </h1>
 
 <div align="center">
-  <img src="" alt="DevOpsShack Banner">
+  <img src="https://github.com/Naveenjr11/Naveenjr11/blob/main/Naveen%20M%20%20Banner.jpeg" alt="Naveen M Banner">
 </div>
 
 <h3 align="center"> "Enthusiastic DevOps fresher eager to streamline development and deployment workflows using GitHub, CI/CD, and automation tools." </h3>
